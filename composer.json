@@ -1,0 +1,17 @@
+{
+    "name": "blanchar/calculette",
+    "autoload": {
+        "psr-4": {
+            "Blanchar\\Calculette\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "blancharSengaVita",
+            "email": "blanchar.senga-vita@student.hepl.be"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    }
+}
